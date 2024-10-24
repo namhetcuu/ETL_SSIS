@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-8NNPD81.Data_warehouse"
+  DTS:DTSID="{E9044633-BD42-412C-884E-265BE3D60713}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-8NNPD81;Initial Catalog=Data_warehouse;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-ETL_SSIS-{E9044633-BD42-412C-884E-265BE3D60713}DESKTOP-8NNPD81.Data_warehouse;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
